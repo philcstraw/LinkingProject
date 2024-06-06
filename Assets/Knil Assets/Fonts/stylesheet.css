@@ -1,0 +1,14 @@
+@font-face {
+font-family: 'FuturaRenerRegular';
+src: url('futura_regular-webfont.eot');
+src: local('☺'), url('futura_regular-webfont.eot?#iefix') format('embedded-opentype'),url('futura_regular-webfont.woff') format('woff'),url('futura_regular-webfont.ttf') format('truetype'),url('futura_regular-webfont.svg#FuturaRenerRegular') format('svg');
+font-weight: normal;
+font-style: normal;}
+
+@font-face {
+font-family: 'FuturaRenerLight';
+src: url('futura_light-webfont.eot');
+src: local('☺'), url('futura_light-webfont.eot?#iefix') format('embedded-opentype'),url('futura_light-webfont.woff') format('woff'),url('futura_light-webfont.ttf') format('truetype'),url('futura_light-webfont.svg#FuturaRenerLight') format('svg');
+font-weight: normal;
+font-style: normal;}
+
